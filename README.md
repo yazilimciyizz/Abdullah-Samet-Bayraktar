@@ -1,5 +1,6 @@
 # Abdullah-Samet-Bayraktar
 JPEG ALGORİTMASI KOD BLOĞUMUZ
+
 package jpegcompressor;
 
 import java.awt.image.RenderedImage;
