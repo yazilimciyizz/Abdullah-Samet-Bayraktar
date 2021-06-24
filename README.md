@@ -3,15 +3,25 @@ JPEG ALGORİTMASI KOD BLOĞUMUZ
 package jpegcompressor;
 
 import java.awt.image.RenderedImage;
+
 import java.io.ByteArrayOutputStream;
+
 import java.io.File;
+
 import java.io.IOException;
+
 import javax.imageio.IIOImage;
+
 import javax.imageio.ImageIO;
+
 import javax.imageio.ImageWriter;
+
 import javax.imageio.ImageWriteParam;
+
 import javax.imageio.stream.ImageOutputStream;
+
 import javax.imageio.stream.MemoryCacheImageOutputStream;
+
 
 public class JPEGCompressor {
 
